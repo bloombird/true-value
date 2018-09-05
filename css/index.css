@@ -3,6 +3,9 @@
    padding: 0px;
    margin: 0px;
 }
+button{
+   text-align: left;
+}
 
 #nav{
    width: 100%;
